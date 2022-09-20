@@ -28,7 +28,7 @@ class WoZaiXiaoYuanPuncher:
         self.header = {
             "Accept-Encoding": "gzip, deflate, br",
             "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.13(0x18000d32) NetType/WIFI Language/zh_CN miniProgram",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 11; M2012K11AC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.99 XWEB/3263 MMWEBSDK/20220105 Mobile Safari/537.36 MMWEBID/3058 MicroMessenger/8.0.19.2080(0x2800133D) Process/appbrand3 WeChat/arm64 Weixin NetType/5G Language/zh_CN ABI/arm64 MiniProgramEnv/android",
             "Content-Type": "application/json;charset=UTF-8",
             "Content-Length": "2",
             "Host": "gw.wozaixiaoyuan.com",
